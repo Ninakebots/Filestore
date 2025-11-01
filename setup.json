@@ -1,17 +1,17 @@
 [
     {
-        "session": "",
-        "token": "",
-        "api_id": "",
-        "api_hash": "",
-        "workers": 0,
-        "db_uri": "",
-        "db_name": "",
+        "session": "Soloflix",
+        "token": "8511605666:AAHZaxvRLXLJRIZG3VnhYy6KQnMXj4aWJ3w",
+        "api_id": "22884130",
+        "api_hash": "a69e8b16dac958f1bd31eee360ec53fa",
+        "workers": 8,
+        "db_uri": "mongodb+srv://dixoxi9379_db_user:aJZ2Qy0TzKvI3B17@cluster0.r4kozye.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "db_name": "Ruri",
         "fsubs": [],
-        "db": 0,
+        "db": -1003295492236,
         "auto_del": 0,
         "messages": {
-            "START": "",
+            "START": "Alive",
             "FSUB": "",
             "ABOUT": "",
             "REPLY": "",
@@ -23,3 +23,4 @@
         "protect": false
     }
 ]
+
